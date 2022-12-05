@@ -1,0 +1,43 @@
+[
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f1",
+    "name": "Treadmill",
+    "sec": 30,
+    "breaktime": 10,
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/RS4967_78781313-hig.jpg"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f2",
+    "name": "Dumble",
+    "sec": 30,
+    "breaktime": 20,
+    "img": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2017/11/6-Reasons-You-Should-Never-Open-a-Gym.jpg"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f3",
+    "name": "Dumble",
+    "sec": 30,
+    "breaktime": 30,
+    "img": "https://static.thehoneycombers.com/wp-content/uploads/sites/2/2022/01/best-gyms-in-singapore-Andrea-Piacquadio-via-Pexels-900x643.jpg"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f4",
+    "name": "Battle Rope",
+    "sec": 30,
+    "breaktime": 40,
+    "img": "https://img.freepik.com/free-photo/young-healthy-man-athlete-doing-exercise-with-ropes-gym-single-male-model-practicing-hard-training-his-upper-body-concept-healthy-lifestyle-sport-fitness-bodybuilding-wellbeing_155003-27879.jpg?w=2000"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f5",
+    "name": "Ez Bar",
+    "sec": 30,
+    "breaktime": 50,
+    "img": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f6",
+    "name": "Kettle Bell",
+    "sec": 30,
+    "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_09/3453626/210301-lifestyle-home-gym-2x1-ac-851p.jpg"
+  }
+]

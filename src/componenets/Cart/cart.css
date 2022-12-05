@@ -1,0 +1,47 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+#toast-btn{
+    width: 100%;
+}
+.break-btn{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 7px;
+    height: 60px;
+    align-items: center;
+    margin-top: 40px;
+}
+.break-btn button{
+    padding: 7px;
+}
+.time-heading{
+    margin-top: 40px;
+}
+.time {
+    background-color: lightblue;
+    border-radius: 7px;
+    padding-top: 15px;
+    padding-bottom: 7px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.break-time{
+    background-color: lightblue;
+    border-radius: 7px;
+    padding-top: 15px;
+    padding-bottom: 7px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#toast-btn{
+    margin-top: 60px;
+}
